@@ -15,10 +15,11 @@ An SQLlite data set containing information on the past years of weather has been
 - In addition, 75% of days reach at least 74 degrees. 
 - Lack of variation between the two ends of the year indicate that milkshake consumables should provide a steady income stream to undergird larger-ticket sales of surf items. 
 
-Additional Analysis:
+### Additional Analysis:
 
 Additional queries that should be conducted are 
--average windspeed for each month
-=Percent cloud cover on an average day for each month. 
+
+  - average windspeed for each month
+  - Percent cloud cover on an average day for each month. 
 
 This would give a more granular picture about the viability of a milkshake income stream.
